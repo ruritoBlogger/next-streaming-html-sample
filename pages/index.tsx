@@ -7,6 +7,9 @@ export default function Home() {
       <Link href='/ssr'>
         <a>SSRのサンプル</a>
       </Link>
+      <Link href='/ssr_streaming'>
+        <a>SSR Streamingのサンプル</a>
+      </Link>
     </div>
   )
 }
